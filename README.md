@@ -1,0 +1,2 @@
+# Vote-Management-System
+ I have created a vote management system using HTML , CSS , Bootstrap, SQL . In this main admin will provide the username and password to any voter or to new admin . Voters can vote for the respective candidate for the respective position by logging with the username and password provided to them. Admin can add voters in the system , add position for the election , add candidates for the position and view result graph by logging with the username and password. He / She can remove or add voters , position, Candidates.
