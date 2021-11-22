@@ -21,4 +21,4 @@
 username  Nurhodelta
 password  password
 
-//refered-: www.CampCodes.com
+//refered from -: www.CampCodes.com
